@@ -3,7 +3,7 @@
   "name": "browser-game-social-filament",
   "display_name": "Browser Game Social Filament",
   "description": "Filament 5 social catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\SocialFilament\\SocialFilamentServiceProvider",
   "requires": {
